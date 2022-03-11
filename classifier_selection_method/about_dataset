@@ -1,0 +1,5 @@
+this is about the brest cancer dataset
+
+based on the different features we have to predict which class the cancer is in
+
+we can see decision tree classification has the best accuracy for the given features
